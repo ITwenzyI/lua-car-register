@@ -41,6 +41,7 @@ To limit **custom plate input**, rank check is used:
 if playerData.job.grade < 8 then
  -- disallow custom plates
 end
+```
 
 ## 👤 Author
 **Kilian**
